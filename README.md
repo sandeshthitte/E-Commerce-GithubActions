@@ -62,11 +62,11 @@ Create a new repository on GitHub.
 - Enable **"Static Website Hosting"**.
 
 ![S3 Bucket Setup](img/s3%20bucket%20setup-01.png)
-
+---
 ![S3 Bucket Setup](img/s3%20bucket%20setup-02.png)
-
+---
 ![S3 Bucket Setup](img/s3%20bucket%20setup-03.png)
-
+---
 ### Step 4: Upload Website Files  
 Upload HTML, CSS, and JavaScript files to the S3 bucket.
 
@@ -77,7 +77,7 @@ Upload HTML, CSS, and JavaScript files to the S3 bucket.
 - Copy the **endpoint URL** and paste it in your browser.
 
 ![S3 Website Endpoint](img/enable%20static%20hosting.png)
-
+---
 ![Website Test](img/test%20website%20endpoint.png)
 
 ---
